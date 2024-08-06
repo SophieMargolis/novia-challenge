@@ -1,0 +1,47 @@
+id,createdAt,updatedAt,candidateName,overallScore,dataSources,status,professionalScore,culturalScore,teamScore,punchline,contextID,hrScore
+38,27:17.2,27:52.4,Zephyr Rift Stormwind,80.0,"{Linkedin,CV}",Completed,79,74.0,75.0,"Strong fit with minor industry-specific gap, valuable collaboration and innovation.",10,2
+39,27:48.9,28:30.1,Luna Moonbeam,75.0,"{Linkedin,CV}",Completed,82,62.0,60.0,"Strong foundation, potential for growth in new industry.",10,2
+36,26:17.4,27:00.1,Phoenix Ashfire,70.0,"{Linkedin,CV}",Completed,84,74.0,75.0,Potential fit with room for growth in industry-specific expertise.,10,2
+40,28:14.1,28:44.1,Orion Stargazer,70.0,"{Linkedin,CV}",Completed,77,65.0,70.0,Promising fit with room for industry-specific growth.,10,4
+41,28:49.3,29:26.9,Sage Evergreen,75.0,"{Linkedin,CV}",Completed,79,69.0,69.0,Solid foundation with potential for growth in new industry.,10,3
+45,32:33.4,33:09.0,Onyx Shadowmancer,75.0,"{Linkedin,CV}",Completed,82,68.0,70.0,Experienced candidate with room for industry-specific adaptation.,10,2
+46,32:59.1,33:48.4,Crimson Frostbite,75.0,"{Linkedin,CV}",Completed,85,70.6,66.5,Strong fit with room for growth in startup environment experience.,10,1
+47,34:24.2,35:02.5,Jasper Thunderbolt,55.0,"{Linkedin,CV}",Completed,56,63.0,57.5,Needs industry-specific experience for better alignment with role.,10,4
+48,34:57.4,35:34.5,Willow Raindrops,65.0,"{Linkedin,CV}",Completed,66,63.0,62.5,"Strong communication and creativity, but lacks technical experience for PO role.",10,4
+52,37:17.4,37:52.3,Ember Flameheart,75.0,"{Linkedin,CV}",Completed,80,78.0,77.5,Good fit with room for growth in specific industry knowledge.,10,1
+53,38:22.7,39:02.3,Iris Rainbowsky,70.0,"{Linkedin,CV}",Completed,74,66.0,67.5,Versatile candidate with room for growth in tech startup environment.,10,4
+54,38:42.9,39:26.6,Aspen Leafdancer,60.0,"{Linkedin,CV}",Completed,71,47.0,42.5,"Solid skills, but mismatch in industry experience and cultural fit.",10,4
+55,39:00.6,39:32.5,Indigo Twilight,50.0,"{Linkedin,CV}",Completed,56,38.0,42.5,Lacks industry experience and collaboration skills for Product Owner role.,10,4
+57,39:50.6,40:24.4,Coral Seasong,75.0,"{Linkedin,CV}",Completed,78,58.0,60.0,"Strong fit for the role, with room for industry knowledge growth.",10,2
+60,41:42.2,42:26.3,Flint Sparkstone,80.0,"{Linkedin,CV}",Completed,85,74.0,75.0,"Well-aligned with the role, room for domain-specific growth.",10,1
+63,44:57.1,45:33.0,Aether Voidwalker,50.0,"{Linkedin,CV}",Completed,49,38.0,40.0,"Operational skills strong, lacks product management and engineering experience.",10,4
+65,45:48.9,46:28.0,Jade Emeraldeye,70.0,"{Linkedin,CV}",Completed,78,65.0,60.0,"Strong skills, needs adaptation for consumer tech product focus.",10,4
+68,47:27.3,48:02.0,Rook Chessmasters,75.0,"{Linkedin,CV}",Completed,80,60.0,55.0,Strong fit with potential for growth in unique industry requirements.,10,2
+69,49:50.2,50:31.2,Tempest Sunburst Stormrider,50.0,"{Linkedin,CV}",Completed,54,47.0,47.5,Lacks industry-specific experience for optimal performance.,10,4
+70,50:32.8,51:03.4,Ash Phoenixborn,65.0,"{Linkedin,CV}",Completed,68,55.0,52.5,"Creative leader with potential, needs industry-specific experience.",10,4
+75,52:46.1,53:21.5,Saffron Spicetongue,75.0,{Linkedin},Completed,79,69.4,76.0,"Strong alignment with Loops' values and mission, solid product management.",10,4
+80,04:01.3,04:36.5,Quartz Crystalshine,75.0,"{Linkedin,CV}",Completed,79,66.0,67.5,"Strong foundation, needs minor adjustments for optimal fit.",10,1
+81,04:27.5,05:05.0,Breeze Windwhisper,70.0,"{Linkedin,CV}",Completed,76,61.0,60.0,Potential fit with room for growth in industry knowledge.,10,4
+82,04:47.2,05:33.5,Moss Forestfloor,60.0,"{Linkedin,CV}",Completed,59,58.0,60.0,"Good foundation, needs industry-specific training for Product Owner role.",10,4
+83,05:07.8,05:41.7,Blaze Infernowing,70.0,"{Linkedin,CV}",Completed,78,62.0,57.5,Strong fit but industry experience gap needs consideration.,10,4
+84,06:57.2,07:39.5,Glacier Frostpeak,76.0,"{Linkedin,CV}",Completed,84,65.0,62.5,"Aligned with company values, needs to adapt to new industry.",10,2
+85,07:58.0,08:32.5,Nimbus Cloudwalker,70.0,"{Linkedin,CV}",Completed,73,67.0,65.0,Strong potential but lacks specific domain expertise in toy industry.,10,4
+87,09:42.2,10:20.7,Obsidian Darkshard,75.0,"{Linkedin,CV}",Completed,86,69.0,70.0,"Solid fit, some gaps in domain experience, but promising potential.",10,4
+88,12:11.5,12:45.9,Lotus Petalfall,75.0,"{Linkedin,CV}",Completed,81,75.0,72.5,"Strong analytical skills, needs familiarity with toy industry specifics.",10,4
+90,18:39.6,19:13.4,Zenith Skyclimber,65.0,"{Linkedin,CV}",Completed,72,54.0,52.5,Promising candidate with potential for growth but requires industry familiarity.,10,4
+91,22:55.0,23:40.4,Ebony Shadowdancer,80.0,"{Linkedin,CV}",Completed,87,67.0,65.0,Good cultural and professional fit with room for growth.,10,4
+92,28:46.5,29:20.8,Opal Gemheart,65.0,"{Linkedin,CV}",Completed,76,56.0,57.5,"Promising candidate with potential, needs domain-specific knowledge development.",10,4
+93,30:46.1,31:20.4,Falcon Skysoarer,65.0,"{Linkedin,CV}",Completed,83,62.0,60.0,"Promising technical expertise, requires industry adaptation for optimal fit.",10,4
+94,38:02.3,38:36.4,Dusk Twilightshade,75.0,"{Linkedin,CV}",Completed,79,72.4,71.5,Solid fit with room for industry-specific growth.,10,4
+95,40:59.9,41:30.6,Dusk Twilightshade,75.0,"{Linkedin,CV}",Completed,79,74.0,75.0,Solid fit with minor domain adaptation needed.,10,4
+97,08:31.4,09:17.5,Frost Iceweaver,75.0,"{Linkedin,CV}",Completed,82,66.0,62.5,"Strong technical fit, need to showcase customer experience achievements.",10,1
+98,41:48.1,42:29.7,Cobalt Bluestone,80.0,"{Linkedin,CV}",Completed,80,71.0,70.0,Diverse industry experience with strong project management skills.,10,1
+99,52:42.9,53:24.2,Aura Spiritglow,70.0,"{Linkedin,CV}",Completed,78,68.0,67.5,Solid potential fit with transferable skills and passion for technology.,10,1
+103,27:38.9,28:25.1,Slate Graystone,70.0,"{Linkedin,CV}",Completed,80,72.0,75.0,Experienced product manager with potential for success in a new domain.,10,3
+104,08:25.0,09:08.9,Cosmos Starbeam,70.0,"{Linkedin,CV}",Completed,76,63.6,62.5,Strong potential but needs to adapt to B2C focus and industry knowledge.,10,3
+107,31:09.9,31:55.6,Torrent Riverflow,70.0,"{Linkedin,CV}",Completed,82,58.2,62.0,Promising fit with room for growth in music toy tech.,10,4
+109,33:43.7,34:32.3,Nebula Galaxyweaver,65.0,"{Linkedin,CV}",Completed,68,56.0,52.5,"Strong foundation, but lacks industry-specific experience.",10,2
+110,37:32.6,38:03.8,Flare Sunburst,65.0,"{Linkedin,CV}",Completed,74,60.0,62.5,Promising skills but needs to adapt to new industry and environment.,10,4
+111,38:13.9,39:08.6,Horizon Dawnbreaker,70.0,"{Linkedin,CV}",Completed,78,68.0,70.0,Strong foundation with room for industry-specific growth.,10,4
+112,40:22.1,40:58.9,Gale Windrider,45.0,"{Linkedin,CV}",Completed,46,40.0,37.5,Technical skills not aligned with product management requirements.,10,4
+113,41:21.8,42:02.3,Gale Windrider,45.0,"{Linkedin,CV}",Completed,58,35.6,42.5,Limited fit due to lack of industry and role-specific experience.,10,4
